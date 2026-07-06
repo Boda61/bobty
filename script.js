@@ -4,7 +4,7 @@ function scrollDown(){
 
 function unlockLove(){
   const passwordInput = document.getElementById("password").value;
-  const correctPassword = "15/12/2003";
+  const correctPassword = "27/3/2004";
 
   if(passwordInput === correctPassword){
     document.getElementById("error").innerText = "";
@@ -52,7 +52,7 @@ function scrollDown() {
 
 function unlockLove() {
   const passwordInput = document.getElementById("password").value;
-  const correctPassword = "15/12/2003";
+  const correctPassword = "27/3/2004";
 
   if(passwordInput === correctPassword) {
     document.getElementById("error").innerText = "";
